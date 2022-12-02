@@ -1,22 +1,41 @@
-<h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">Just some random programmer.</h3>
+<div align="center">
 
-<br>
+  # JoshJKK
 
-- 🔭 I’m currently working on [jkk-editor](https://github.com/joshjkk/jkk-editor)
+  ### The second programmer sent from God.
+  
+  <br>
 
-- 🌱 I’m currently learning **C**
+  ## 🧐 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/joshjkk](https://github.com/joshjkk)
+  💻 I like telling the computer to do what I say
+  
+  😎 I prefer to work alone because I'm the best co-worker I can have
+  
+  💪 I love to lift weights for a challenge physically as well as mentally
+  
+  ✝️ I am a dedicated man of faith
 
-- 💬 Ask me about **C**
+  ## 🔧 My Skills
 
-- 📫 How to reach me **joshuakkinder@gmail.com**
+  🇨 **C Lang**, ncurses
+  
+  😎 Git, GitHub
+  
+  🔨 NeoVim, Linux, Bash
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCEoXJPni-KQyxsbqcZgvofQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joshua kinder" height="30" width="40" /></a>
-</p>
+  ## Working On
+  
+  <img height=150 src="https://user-images.githubusercontent.com/97398293/204043643-c00fe55d-8f7d-436a-9b16-3f4de9002eed.png" alt="jkk logo">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+  ### [The JKK Editor](https://github.com/joshjkk/jkk-editor)
+
+  *A small and easy-to-use text editor for the terminal.*
+
+  ## Contact Me
+  
+  ### ✉️ Email
+  
+  **joshuakkinder@gmail.com**
+
+</div>
