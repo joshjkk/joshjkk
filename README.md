@@ -2,7 +2,7 @@
 
   # JoshJKK
 
-  ### The second programmer sent from God.
+  ### I just do stuff and it works.
   
   <br>
 
