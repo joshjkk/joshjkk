@@ -1,41 +1,21 @@
-<div align="center">
+# 👋 Hey, I'm Joshua Kinder 👋
 
-  # JoshJKK
+Hey, I'm Joshua Kinder, from the UK 🇬🇧. I'm just a bored guy that got into programming from watching game dev Youtube channels, and it's stuck since. My favourite programming language I like to work in is good old 🇨, and I really enjoy making terminal applications with ncurses.
 
-  ### I just do stuff and it works.
-  
-  <br>
+## 🔧 Skills and Experience 🔧
 
-  ## 🧐 About Me
+- C Language
+- Ncurses 
+- Terminal Applications
 
-  💻 I like telling the computer to do what I say
-  
-  😎 I prefer to work alone because I'm the best co-worker I can have
-  
-  💪 I love to lift weights for a challenge physically as well as mentally
-  
-  ✝️ I am a dedicated man of faith
+## 🌟 Featured Projects 🌟
 
-  ## 🔧 My Skills
+<img width=100 height=100 src="https://user-images.githubusercontent.com/97398293/205511616-b54d818c-4dc2-4b56-9734-b6f6a97e4acc.png" alt="JKK logo">
 
-  🇨 **C Lang**, ncurses
-  
-  😎 Git, GitHub
-  
-  🔨 NeoVim, Linux, Bash
+### [The JKK Text Editor](https://github.com/joshjkk/jkk-editor)
 
-  ## Working On
-  
-  <img height=150 src="https://user-images.githubusercontent.com/97398293/204043643-c00fe55d-8f7d-436a-9b16-3f4de9002eed.png" alt="jkk logo">
+#### Text Editing made simple.
 
-  ### [The JKK Editor](https://github.com/joshjkk/jkk-editor)
+## 📈 Stats 📈
 
-  *A small and easy-to-use text editor for the terminal.*
-
-  ## Contact Me
-  
-  ### ✉️ Email
-  
-  **joshuakkinder@gmail.com**
-
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
