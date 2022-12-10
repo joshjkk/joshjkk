@@ -2,7 +2,7 @@
 
   # 👋 Hey, I'm Joshua Kinder 👋
 
-  #### I just do stuff and it works.
+  ### I just do stuff and it works.
   
   <img width=460 height=500 src="https://user-images.githubusercontent.com/97398293/206867045-86d3b8ac-ff89-4fdc-929f-5280f5ff871d.jpg" alt="my profile picture">
   
