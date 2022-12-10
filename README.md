@@ -1,6 +1,23 @@
-# 👋 Hey, I'm Joshua Kinder 👋
+<div align="center">
 
-Hey, I'm Joshua Kinder, from the UK 🇬🇧. I'm just a bored guy that got into programming from watching game dev Youtube channels, and it's stuck since. My favourite programming language I like to work in is good old 🇨, and I really enjoy making terminal applications with ncurses. Currently, I'm using Ubuntu as my operating system.
+  # 👋 Hey, I'm Joshua Kinder 👋
+
+  #### I just do stuff and it works.
+  
+  <img width=460 height=500 src="https://user-images.githubusercontent.com/97398293/206867045-86d3b8ac-ff89-4fdc-929f-5280f5ff871d.jpg" alt="my profile picture">
+  
+</div>
+
+## 🧐 About Me 🧐
+
+Hey, I'm Joshua Kinder, a regular 15 year-old from the UK 🇬🇧. I'd like to say that I code for fun, but to be honest, I don't even know why I do it anymore. Programming has had me captivated since the age of 13, and I still can't rip myself away from it. I use [Ubuntu](https://ubuntu.com/) and C for my projects.
+
+## 👍 Things I Like 👍
+
+- 🏋️ Weightlifting 🏋️
+- 📚 Reading 📚
+- 🧘 Meditating 🧘
+- ✝️ Jesus ✝️
 
 ## 🔧 Skills and Experience 🔧
 
