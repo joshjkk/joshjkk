@@ -10,7 +10,22 @@
 
 ## 🧐 About Me 🧐
 
-Hey, I'm Joshua Kinder, a regular 15 year-old from the UK 🇬🇧. I'd like to say that I code for fun, but to be honest, I don't even know why I do it anymore. Programming has had me captivated since the age of 13, and I still can't rip myself away from it. I use [Ubuntu](https://ubuntu.com/) and C for my projects.
+Hey, I'm Joshua Kinder from the UK 🇬🇧. I've been programming since 12, (15 now) because being able to make the computer do crazy stuff by typing on a crusty keyboard has always fascinated me. 
+
+## 🖥 My OS 🖥
+
+- Dual Boot: Windows 10 + Ubuntu Linux
+
+I have a [dual-boot](https://www.computerhope.com/jargon/d/dualboot.htm) system with [Windows 10](https://en.wikipedia.org/wiki/Windows_10) for personal use and [Ubuntu Linux](https://ubuntu.com/) for programming.
+
+## 🐍 My Programming Languages 🐍
+
+- C
+- Python
+
+I have tampered with many programming languages in the past, but my main ones are probably [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), C because of the speed and Python in case I cant make it in C.
+
+and [VSCode](https://code.visualstudio.com/) or sometimes [NeoVim](https://neovim.io/) for my code editor.
 
 ## 👍 Things I Like 👍
 
@@ -19,20 +34,6 @@ Hey, I'm Joshua Kinder, a regular 15 year-old from the UK 🇬🇧. I'd like to 
 - 🧘 Meditating 🧘
 - ✝️ Jesus ✝️
 
-## 🔧 Skills and Experience 🔧
-
-- C Language
-- Ncurses 
-- Terminal Applications
-
-## 🌟 Featured Projects 🌟
-
-<img width=100 height=100 src="https://user-images.githubusercontent.com/97398293/205511616-b54d818c-4dc2-4b56-9734-b6f6a97e4acc.png" alt="JKK logo">
-
-### [The JKK Text Editor](https://github.com/joshjkk/jkk-editor)
-
-#### Text Editing made simple.
-
-## 📈 Stats 📈
+## 📈 My Stats 📈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
