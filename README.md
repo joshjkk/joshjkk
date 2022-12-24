@@ -12,9 +12,9 @@ Hey, I'm Joshua Kinder from the UK 🇬🇧. I've been programming since 12, (15
 
 ## 🖥 My OS 🖥
 
-- Dual Boot: Windows 10 + Ubuntu Linux
+- Dual Boot: Windows 10 + Kubuntu Linux
 
-I have a [dual-boot](https://www.computerhope.com/jargon/d/dualboot.htm) system with [Windows 10](https://en.wikipedia.org/wiki/Windows_10) for personal use and [Ubuntu Linux](https://ubuntu.com/) for programming.
+I have a [dual-boot](https://www.computerhope.com/jargon/d/dualboot.htm) system with [Windows 10](https://en.wikipedia.org/wiki/Windows_10) for personal use and [Kubuntu Linux](https://kubuntu.org/) for programming.
 
 ## 🐍 My Programming Languages 🐍
 
