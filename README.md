@@ -17,7 +17,7 @@ I have a [dual-boot](https://www.computerhope.com/jargon/d/dualboot.htm) system 
 
 I have tampered with many programming languages in the past, but my main ones are probably [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), C because of the speed and Python in case I cant make it in C.
 
-and [VSCode](https://code.visualstudio.com/) or sometimes [NeoVim](https://neovim.io/) for my code editor.
+Also, I use [Neovim](https://neovim.io/) for my code editor.
 
 ## 👍 Things I Like 👍
 
