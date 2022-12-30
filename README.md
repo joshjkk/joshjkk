@@ -1,10 +1,4 @@
-<div align="center">
-
-  # 👋 Hey, I'm Joshua Kinder 👋
-
-  ### I just do stuff and it works.
-  
-</div>
+# 👋 Hey, I'm Joshua Kinder 👋
 
 ## 🧐 About Me 🧐
 
@@ -12,9 +6,9 @@ Hey, I'm Joshua Kinder from the UK 🇬🇧. I've been programming since 12, (15
 
 ## 🖥 My OS 🖥
 
-- Dual Boot: Windows 10 + Kubuntu Linux
+- Dual Boot: **Windows 10** + **Linux Mint 21.1**
 
-I have a [dual-boot](https://www.computerhope.com/jargon/d/dualboot.htm) system with [Windows 10](https://en.wikipedia.org/wiki/Windows_10) for personal use and [Kubuntu Linux](https://kubuntu.org/) for programming.
+I have a [dual-boot](https://www.computerhope.com/jargon/d/dualboot.htm) system with [Windows 10](https://en.wikipedia.org/wiki/Windows_10) for personal use and [Linux Mint](https://en.wikipedia.org/wiki/Linux_Mint) for programming.
 
 ## 🐍 My Programming Languages 🐍
 
