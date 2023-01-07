@@ -2,30 +2,26 @@
 
 ## 🧐 About Me 🧐
 
-Hey, I'm Joshua Kinder from the UK 🇬🇧. I've been programming since 12, (15 now) because being able to make the computer do crazy stuff by typing on a crusty keyboard has always fascinated me. 
+Hey, my name is Joshua Kinder, I'm an IT enthusiast and [Greek Orthodox Christian](https://en.wikipedia.org/wiki/Eastern_Orthodoxy) from the UK. I have been programming since the age of 12, starting out with [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), eventually working my way up to [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B) and currently my favourite: [C](https://en.wikipedia.org/wiki/C_(programming_language)).
 
-## 🖥 My OS 🖥
+## 🖥️ My Operating System 🖥️
 
-- Dual Boot: **Windows 10** + **Linux Mint 21.1**
+### Arch Linux
 
-I have a [dual-boot](https://www.computerhope.com/jargon/d/dualboot.htm) system with [Windows 10](https://en.wikipedia.org/wiki/Windows_10) for personal use and [Linux Mint](https://en.wikipedia.org/wiki/Linux_Mint) for programming.
+I use [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux), or more specifically [EndeavourOS](https://en.wikipedia.org/wiki/EndeavourOS) for personal and work needs because Linux is much better for programming than [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows).
 
-## 🐍 My Programming Languages 🐍
+## 🔠 My Main Programming Language 🔠
 
-- C
-- Python
+### C Language
 
-I have tampered with many programming languages in the past, but my main ones are probably [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), C because of the speed and Python in case I cant make it in C.
+[C](https://en.wikipedia.org/wiki/C_(programming_language)) is my favourite language of all time and for good reasons. Why make something in [C++](https://en.wikipedia.org/wiki/C%2B%2B), when you can make it in C? [The speed of C](https://github.com/niklas-heer/speed-comparison) is flawless, and just about anything is possible with it. Truly a great language.
 
-Also, I use [Neovim](https://neovim.io/) for my code editor.
+## ⌨️ My Text Editor ⌨️
 
-## 👍 Things I Like 👍
+### Neovim
 
-- 🏋️ Weightlifting 🏋️
-- 📚 Reading 📚
-- 🧘 Meditating 🧘
-- ✝️ Jesus ✝️
+I use [Neovim](https://neovim.io/) as my text editor because it's fast, free and customizable. I can also use [VSCode](https://en.wikipedia.org/wiki/Visual_Studio_Code), but I much prefer the Vim motions and VSCode is a little slow on my system.
 
-## 📈 My Stats 📈
+## 📈 My Statistics 📈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshjkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
