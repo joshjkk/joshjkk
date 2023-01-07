@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Joshua Kinder 👋
+# 👋 Hey, I'm Josh 👋
 
 ## 🧐 About Me 🧐
 
